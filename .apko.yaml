@@ -5,6 +5,8 @@ contents:
     - ca-certificates-bundle
     - alpine-baselayout-data
 
+    - BREAK
+
 accounts:
   groups:
     - groupname: nonroot
